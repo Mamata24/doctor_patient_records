@@ -1,0 +1,52 @@
+[
+  {
+    "patient_name": "Glenine Sturdey",
+    "doctor": "Leeanne Goldis",
+    "address": "325 Ronald Regan Pass",
+    "email": "lgoldis0@vistaprint.com",
+    "gender": "Female",
+    "age": 42,
+    "total_number_of_medicines": 1,
+    "phone_number": "822-489-2513"
+  },
+  {
+    "patient_name": "Boot MacKibbon",
+    "doctor": "Fonz Drinkwater",
+    "address": "13828 Park Meadow Lane",
+    "email": "fdrinkwater1@wikimedia.org",
+    "gender": "Male",
+    "age": 96,
+    "total_number_of_medicines": 7,
+    "phone_number": "147-107-9300"
+  },
+  {
+    "patient_name": "Sibeal Pardy",
+    "doctor": "Olivie Hammett",
+    "address": "30 Pine View Terrace",
+    "email": "ohammett2@cpanel.net",
+    "gender": "Female",
+    "age": 84,
+    "total_number_of_medicines": 1,
+    "phone_number": "124-647-1772"
+  },
+  {
+    "patient_name": "Carver Fawcus",
+    "doctor": "Yehudit Call",
+    "address": "8534 Oriole Plaza",
+    "email": "ycall3@so-net.ne.jp",
+    "gender": "Male",
+    "age": 90,
+    "total_number_of_medicines": 10,
+    "phone_number": "261-703-4633"
+  },
+  {
+    "patient_name": "Aurelie Rubinshtein",
+    "doctor": "Orly Carlick",
+    "address": "6616 Brentwood Way",
+    "email": "ocarlick4@biblegateway.com",
+    "gender": "Female",
+    "age": 7,
+    "total_number_of_medicines": 7,
+    "phone_number": "496-633-8097"
+  }
+]

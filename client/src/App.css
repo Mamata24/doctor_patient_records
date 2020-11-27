@@ -1,0 +1,20 @@
+.App {
+  text-align: center;
+}
+@import url("https://fonts.googleapis.com/css2?family=DM+Mono:wght@300;400;500&display=swap");
+
+body {
+  padding: 0;
+  margin: 0;
+  background-color: black;
+  color: white;
+  font-family: "DM Mono", monospace;
+}
+label {
+  color: rgb(205, 218, 211);
+}
+
+.login,
+.register {
+  margin-left: 400px;
+}
